@@ -11,9 +11,7 @@ Admin Panel: Administrators have access to a dedicated panel for managing buses,
 Database Integration: MySQL is used to store and retrieve information related to buses, bookings, and users.
 
 ## Requirements
-Python 3
-MySQL Database
-
+Python 3, MySQL
 
 ## Setup
 
