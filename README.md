@@ -15,7 +15,7 @@ Python 3
 MySQL Database
 
 
-# Setup
+## Setup
 
 ## Clone the Repository:
 
@@ -35,19 +35,19 @@ Import the provided SQL file (bus_booking.sql) into your MySQL database.
 
 python main.py
 
-# Usage
-User Login:
+## Usage
+### User Login:
 Users can log in using their registered credentials.
 
-Bus Search:
+### Bus Search:
 Search for available buses based on source, destination, and date.
 
-Booking:
+### Booking:
 Make a booking by selecting a suitable bus and providing passenger details.
 
-Ticket Generation:
+### Ticket Generation:
 Confirm the booking to generate a ticket with relevant details.
 
-Admin Panel:
+### Admin Panel:
 Access the admin panel using the provided admin credentials.
 Manage buses, view bookings, and monitor user activity.
