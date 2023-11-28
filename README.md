@@ -17,16 +17,16 @@ MySQL Database
 
 ## Setup
 
-## Clone the Repository:
+### Clone the Repository:
 
 git clone https://github.com/Rajesh-mm/Bus_Booking_Management_System.git
 cd Bus_Booking_Management_System
 
-## Install Dependencies:
+### Install Dependencies:
 
 pip install -r requirements.txt
 
-## Database Setup:
+### Database Setup:
 
 Create a MySQL database and update the config.py file with your database details.
 Import the provided SQL file (bus_booking.sql) into your MySQL database.
